@@ -1,1 +1,5 @@
 https://github.com/choiback/Business-Analytics.git
+
+Principais Fontes:
+Estimativa População https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html
+Crimes Registrados https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica
